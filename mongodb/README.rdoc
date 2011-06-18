@@ -1,0 +1,8 @@
+= DESCRIPTION: Installs and configures mongodb as  a standalone or replica set
+
+= REQUIREMENTS: Opscode Chef
+
+= ATTRIBUTES:
+
+= USAGE: mongodb NoSQL database installation & Configuration
+
