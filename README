@@ -1,3 +1,4 @@
+mongodb:
 CHEF Cookbook for mongodb installation
 This cookbook installs mongodb in a number of configurations depending on runlist set up.
 standalone with default locations for mongodb data files
